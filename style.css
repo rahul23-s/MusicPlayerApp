@@ -166,8 +166,8 @@
       .player{
         position: absolute;
         
-        top: -90px;
-        left: -85px;
+        top: -50px;
+        left: -65px;
         transform: scale(0.7);
         overflow: hidden;
       }
