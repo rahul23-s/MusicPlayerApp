@@ -161,7 +161,7 @@
     color: #fff;
   }
 
- @media screen and (max-width:300px){
+ @media screen and (max-width:500px){
       
       .player{
         position: absolute;
