@@ -160,4 +160,16 @@
     background: #ff0634;
     color: #fff;
   }
+
+ @media screen and (max-width:300px){
+      
+      .player{
+        position: absolute;
+        
+        top: -90px;
+        left: -85px;
+        transform: scale(0.58);
+        overflow: hidden;
+      }
+  }
   
